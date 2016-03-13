@@ -16,5 +16,6 @@
 			<result name="error">/error.jsp</result>
 			<result name="success">/welcome.jsp</result>
 		</action>
+		<action name="tip" class="Tip.tipaction"></action>
 	</package>
 </struts>

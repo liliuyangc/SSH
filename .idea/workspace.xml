@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7193ce4a-38a2-4561-ba23-889523bea1cd" name="Default" comment="更新">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActionContext/ActionContext.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ActionContext_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActionContext/src/org/lee/action/LoginAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActionContext/web/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActionContext/web/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActionContext/src/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ServletActionContext/src/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActionContext/web/welcome.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Struts2demo/Struts2demo.iml" afterPath="$PROJECT_DIR$/Struts2demo/Struts2demo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Struts2demo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Struts2demo_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" afterPath="$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/access_servlet_api_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/access_servlet_api_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/access-servlet-api/web/index.jsp" afterPath="$PROJECT_DIR$/access-servlet-api/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/access-servlet-api/src/struts.xml" afterPath="$PROJECT_DIR$/access-servlet-api/src/struts.xml" />
+    <list default="true" id="7193ce4a-38a2-4561-ba23-889523bea1cd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="F:\SSH\.idea\libraries\Struts_2_2_3_20_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/StrutsDemo.xml" />
     </list>
     <ignored path="struts2Demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -542,7 +524,7 @@
       <option name="number" value="Default" />
       <updated>1457793958242</updated>
       <workItem from="1457793961266" duration="5928000" />
-      <workItem from="1457874764568" duration="5313000" />
+      <workItem from="1457874764568" duration="5322000" />
     </task>
     <task id="LOCAL-00001" summary="创建">
       <created>1457794085309</created>
@@ -568,14 +550,20 @@
       <option name="project" value="LOCAL" />
       <updated>1457874809403</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新">
+      <created>1457880099609</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1457880099609</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11241000" />
+    <option name="totallyTimeSpent" value="11250000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
