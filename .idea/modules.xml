@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" filepath="$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" />
       <module fileurl="file://$PROJECT_DIR$/Struts2demo/Struts2demo.iml" filepath="$PROJECT_DIR$/Struts2demo/Struts2demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" filepath="$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/namespace/namespace.iml" filepath="$PROJECT_DIR$/namespace/namespace.iml" />
     </modules>
   </component>
 </project>
