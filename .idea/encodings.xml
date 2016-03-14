@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/ActionContext/web/error.jsp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ActionContext/web/login.jsp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ActionContext/web/welcome.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ServletActionContext" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Struts2demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Struts2demo/src/mess.properties" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Struts2demo/src/mess_zh_CN.properties" charset="GBK" />
@@ -14,6 +15,9 @@
     <file url="file://$PROJECT_DIR$/Struts2demo/web/login.jsp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Struts2demo/web/welcome.jsp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/access-servlet-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/access-servlet-api/web/error.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/access-servlet-api/web/login.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/access-servlet-api/web/welcome.jsp" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
