@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/dmi/dmi.iml" filepath="$PROJECT_DIR$/dmi/dmi.iml" />
       <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
       <module fileurl="file://$PROJECT_DIR$/namespace/namespace.iml" filepath="$PROJECT_DIR$/namespace/namespace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wildcard1/wildcard1.iml" filepath="$PROJECT_DIR$/wildcard1/wildcard1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wildcard2/wildcard2.iml" filepath="$PROJECT_DIR$/wildcard2/wildcard2.iml" />
     </modules>
   </component>
 </project>
