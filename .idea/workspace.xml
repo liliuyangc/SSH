@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7193ce4a-38a2-4561-ba23-889523bea1cd" name="Default" comment="redirect结果类型">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7193ce4a-38a2-4561-ba23-889523bea1cd" name="Default" comment="" />
     <ignored path="struts2Demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -604,7 +602,7 @@
       <workItem from="1457922741793" duration="12861000" />
       <workItem from="1457946314131" duration="1308000" />
       <workItem from="1458002751338" duration="1003000" />
-      <workItem from="1458006775034" duration="1796000" />
+      <workItem from="1458006775034" duration="1864000" />
     </task>
     <task id="LOCAL-00001" summary="创建">
       <created>1457794085309</created>
@@ -654,11 +652,17 @@
       <option name="project" value="LOCAL" />
       <updated>1458008259284</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="redirect结果类型">
+      <created>1458008580308</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1458008580308</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30381000" />
+    <option name="totallyTimeSpent" value="30449000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
