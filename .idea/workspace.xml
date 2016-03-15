@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7193ce4a-38a2-4561-ba23-889523bea1cd" name="Default" comment="struts2注解开发没有配置成功明天继续该">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/asm-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/asm-commons-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/asm-tree-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/commons-io-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/commons-lang-2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/freemarker-2.3.22.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/javassist-3.11.0.GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/ognl-3.0.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/struts2-convention-plugin-2.3.24.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/struts2-core-2.3.24.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/xwork-core-2.3.24.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/src/action/LoginRegistAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Strutslib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/actionAnnoatation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/actionAnnoatation_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/annotationlib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/src/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actionAnnoatation/web/welcome.jsp" />
-      <change type="DELETED" beforePath="F:\SSH\.idea\libraries\StrutsDemo.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ActionContext/ActionContext.iml" afterPath="$PROJECT_DIR$/ActionContext/ActionContext.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" afterPath="$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Struts2demo/Struts2demo.iml" afterPath="$PROJECT_DIR$/Struts2demo/Struts2demo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" afterPath="$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dmi/dmi.iml" afterPath="$PROJECT_DIR$/dmi/dmi.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/dmi_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/dmi_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exceptionHanlder/exceptionHanlder.iml" afterPath="$PROJECT_DIR$/exceptionHanlder/exceptionHanlder.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/exceptionHanlder_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/exceptionHanlder_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/method/method.iml" afterPath="$PROJECT_DIR$/method/method.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/method_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/method_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/namespace/namespace.iml" afterPath="$PROJECT_DIR$/namespace/namespace.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/namespace_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/namespace_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plainText/plainText.iml" afterPath="$PROJECT_DIR$/plainText/plainText.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/plainText_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/plainText_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redirect/redirect.iml" afterPath="$PROJECT_DIR$/redirect/redirect.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/redirect_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/redirect_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wildcard1/wildcard1.iml" afterPath="$PROJECT_DIR$/wildcard1/wildcard1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/wildcard1_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/wildcard1_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wildcard2/wildcard2.iml" afterPath="$PROJECT_DIR$/wildcard2/wildcard2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/wildcard2_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/wildcard2_war_exploded.xml" />
+    <list default="true" id="7193ce4a-38a2-4561-ba23-889523bea1cd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="struts2Demo.iws" />
@@ -72,7 +28,7 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.90801185">
+            <state vertical-scroll-proportion="0.9424084">
               <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding />
             </state>
@@ -673,7 +629,7 @@
       <workItem from="1457946314131" duration="1308000" />
       <workItem from="1458002751338" duration="1003000" />
       <workItem from="1458006775034" duration="1864000" />
-      <workItem from="1458044510016" duration="6376000" />
+      <workItem from="1458044510016" duration="6985000" />
     </task>
     <task id="LOCAL-00001" summary="创建">
       <created>1457794085309</created>
@@ -735,11 +691,17 @@
       <option name="project" value="LOCAL" />
       <updated>1458046956561</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="struts2注解开发没有配置成功明天继续该">
+      <created>1458050902564</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1458050902564</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36825000" />
+    <option name="totallyTimeSpent" value="37434000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -752,7 +714,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291866" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -762,7 +724,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32822967" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32822967" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -773,7 +735,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4019608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4019608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1173,7 +1135,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.90801185">
+        <state vertical-scroll-proportion="0.9424084">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding />
         </state>
