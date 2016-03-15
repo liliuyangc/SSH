@@ -8,7 +8,7 @@
           <element id="module-output" name="dmi" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="StrutsDemo" />
+          <element id="library" level="project" name="Strutslib" />
         </element>
       </element>
     </root>
