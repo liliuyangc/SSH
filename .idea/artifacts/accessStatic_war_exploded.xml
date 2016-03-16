@@ -1,14 +1,13 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="plainText:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/plainText_war_exploded</output-path>
+  <artifact type="exploded-war" name="accessStatic:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/accessStatic_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="plainText/web/Web" />
+      <element id="javaee-facet-resources" facet="accessStatic/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="plainText" />
+          <element id="module-output" name="accessStatic" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="application" name="struts2lib" />
           <element id="library" level="project" name="Strutslib" />
         </element>
       </element>

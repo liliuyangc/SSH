@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActionContext/ActionContext.iml" filepath="$PROJECT_DIR$/ActionContext/ActionContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/I18N/I18N.iml" filepath="$PROJECT_DIR$/I18N/I18N.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" filepath="$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpiderDemo/SpiderDemo.iml" filepath="$PROJECT_DIR$/SpiderDemo/SpiderDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Struts2demo/Struts2demo.iml" filepath="$PROJECT_DIR$/Struts2demo/Struts2demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" filepath="$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionAnnoatation/actionAnnoatation.iml" filepath="$PROJECT_DIR$/actionAnnoatation/actionAnnoatation.iml" />

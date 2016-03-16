@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="method:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/method_war_exploded</output-path>
+  <artifact type="exploded-war" name="I18N:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/I18N_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="method/web/Web" />
+      <element id="javaee-facet-resources" facet="I18N/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="method" />
+          <element id="module-output" name="I18N" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Strutslib" />
