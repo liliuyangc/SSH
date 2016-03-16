@@ -16,7 +16,7 @@
   function regist()
   {
     targetForm=document.forms[0];
-    targetForm.action="/regist/regist";
+    targetForm.action="regist.action";
   }
 </script>
 <form action="login.action" method="post">
@@ -29,7 +29,7 @@
       <td>密&nbsp;&nbsp;码：<input type="text" name="password"/></td>
     </tr>
     <tr align="center">
-      <td><input type="submit" value="登录"/><input type="reset" value="重填" /></td>
+      <td><input type="submit" value="登录"/><input type="submit" value="注册" onclick="regist()" /></td>
     </tr>
   </table>
 </form>
