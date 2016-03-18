@@ -18,7 +18,6 @@
     <file url="file://$PROJECT_DIR$/access-servlet-api/web/error.jsp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/access-servlet-api/web/login.jsp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/access-servlet-api/web/welcome.jsp" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/actionAnnoatation/web/WEB-INF/lib/commons-lang3-3.2.jar" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
