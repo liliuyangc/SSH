@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActionContext/ActionContext.iml" filepath="$PROJECT_DIR$/ActionContext/ActionContext.iml" />
       <module fileurl="file://$PROJECT_DIR$/I18N/I18N.iml" filepath="$PROJECT_DIR$/I18N/I18N.iml" />
-      <module fileurl="file://$PROJECT_DIR$/I18N/I18N.iml" filepath="$PROJECT_DIR$/I18N/I18N.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" filepath="$PROJECT_DIR$/ServletActionContext/ServletActionContext.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpiderDemo/SpiderDemo.iml" filepath="$PROJECT_DIR$/SpiderDemo/SpiderDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Struts2demo/Struts2demo.iml" filepath="$PROJECT_DIR$/Struts2demo/Struts2demo.iml" />
@@ -16,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/exceptionHanlder/exceptionHanlder.iml" filepath="$PROJECT_DIR$/exceptionHanlder/exceptionHanlder.iml" />
       <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
       <module fileurl="file://$PROJECT_DIR$/namespace/namespace.iml" filepath="$PROJECT_DIR$/namespace/namespace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ognlConvert/ognlConvert.iml" filepath="$PROJECT_DIR$/ognlConvert/ognlConvert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ognlObjectMap/ognlObjectMap.iml" filepath="$PROJECT_DIR$/ognlObjectMap/ognlObjectMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/plainText/plainText.iml" filepath="$PROJECT_DIR$/plainText/plainText.iml" />
       <module fileurl="file://$PROJECT_DIR$/redirect/redirect.iml" filepath="$PROJECT_DIR$/redirect/redirect.iml" />
       <module fileurl="file://$PROJECT_DIR$/wildcard1/wildcard1.iml" filepath="$PROJECT_DIR$/wildcard1/wildcard1.iml" />
