@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+        <!-- 配置国际化资源文件 -->
+        <constant name="struts.custom.i18n.resources" value="mess"/>
+        <package name="lee" extends="struts-default">
+                <action name="login" class="lee.action.LoginAction">
+                        <!-- 配置名为input的逻辑视图，
+                            当转换失败后转入该逻辑视图 -->
+                        <result name="input">/input.jsp</result>
+                        <result name="success">/welcome.jsp</result>
+                        <result name="error">/welcome.jsp</result>
+                </action>
+        </package>
+</struts>
