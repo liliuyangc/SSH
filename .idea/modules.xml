@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/accessStatic/accessStatic.iml" filepath="$PROJECT_DIR$/accessStatic/accessStatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionAnnoatation/actionAnnoatation.iml" filepath="$PROJECT_DIR$/actionAnnoatation/actionAnnoatation.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicValidate/basicValidate.iml" filepath="$PROJECT_DIR$/basicValidate/basicValidate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientValidate/clientValidate.iml" filepath="$PROJECT_DIR$/clientValidate/clientValidate.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlTag/controlTag.iml" filepath="$PROJECT_DIR$/controlTag/controlTag.iml" />
       <module fileurl="file://$PROJECT_DIR$/dmi/dmi.iml" filepath="$PROJECT_DIR$/dmi/dmi.iml" />
       <module fileurl="file://$PROJECT_DIR$/errorHandler/errorHandler.iml" filepath="$PROJECT_DIR$/errorHandler/errorHandler.iml" />
