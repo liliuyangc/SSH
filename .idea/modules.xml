@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" filepath="$PROJECT_DIR$/access-servlet-api/access-servlet-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/accessStatic/accessStatic.iml" filepath="$PROJECT_DIR$/accessStatic/accessStatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionAnnoatation/actionAnnoatation.iml" filepath="$PROJECT_DIR$/actionAnnoatation/actionAnnoatation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorityInterceptor/authorityInterceptor.iml" filepath="$PROJECT_DIR$/authorityInterceptor/authorityInterceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicValidate/basicValidate.iml" filepath="$PROJECT_DIR$/basicValidate/basicValidate.iml" />
       <module fileurl="file://$PROJECT_DIR$/clientValidate/clientValidate.iml" filepath="$PROJECT_DIR$/clientValidate/clientValidate.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlTag/controlTag.iml" filepath="$PROJECT_DIR$/controlTag/controlTag.iml" />
