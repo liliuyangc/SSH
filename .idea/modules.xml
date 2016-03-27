@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/clientValidate/clientValidate.iml" filepath="$PROJECT_DIR$/clientValidate/clientValidate.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlTag/controlTag.iml" filepath="$PROJECT_DIR$/controlTag/controlTag.iml" />
       <module fileurl="file://$PROJECT_DIR$/dmi/dmi.iml" filepath="$PROJECT_DIR$/dmi/dmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/down/down.iml" filepath="$PROJECT_DIR$/down/down.iml" />
       <module fileurl="file://$PROJECT_DIR$/errorHandler/errorHandler.iml" filepath="$PROJECT_DIR$/errorHandler/errorHandler.iml" />
       <module fileurl="file://$PROJECT_DIR$/errorHandler2/errorHandler2.iml" filepath="$PROJECT_DIR$/errorHandler2/errorHandler2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptionHanlder/exceptionHanlder.iml" filepath="$PROJECT_DIR$/exceptionHanlder/exceptionHanlder.iml" />
@@ -24,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/ognlObjectMap/ognlObjectMap.iml" filepath="$PROJECT_DIR$/ognlObjectMap/ognlObjectMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/plainText/plainText.iml" filepath="$PROJECT_DIR$/plainText/plainText.iml" />
       <module fileurl="file://$PROJECT_DIR$/redirect/redirect.iml" filepath="$PROJECT_DIR$/redirect/redirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleUpload/simpleUpload.iml" filepath="$PROJECT_DIR$/simpleUpload/simpleUpload.iml" />
       <module fileurl="file://$PROJECT_DIR$/wildcard1/wildcard1.iml" filepath="$PROJECT_DIR$/wildcard1/wildcard1.iml" />
       <module fileurl="file://$PROJECT_DIR$/wildcard2/wildcard2.iml" filepath="$PROJECT_DIR$/wildcard2/wildcard2.iml" />
     </modules>

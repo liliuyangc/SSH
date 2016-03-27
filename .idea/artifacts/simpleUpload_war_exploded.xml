@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="simpleUpload:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/simpleUpload_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="simpleUpload/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="simpleUpload" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Strutslib" />
+          <element id="library" level="module" name="JUnit4" module-name="simpleUpload" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
