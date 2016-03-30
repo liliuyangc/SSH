@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/authorityInterceptor/authorityInterceptor.iml" filepath="$PROJECT_DIR$/authorityInterceptor/authorityInterceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicValidate/basicValidate.iml" filepath="$PROJECT_DIR$/basicValidate/basicValidate.iml" />
       <module fileurl="file://$PROJECT_DIR$/clientValidate/clientValidate.iml" filepath="$PROJECT_DIR$/clientValidate/clientValidate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component.iml" filepath="$PROJECT_DIR$/component/component.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlTag/controlTag.iml" filepath="$PROJECT_DIR$/controlTag/controlTag.iml" />
       <module fileurl="file://$PROJECT_DIR$/dmi/dmi.iml" filepath="$PROJECT_DIR$/dmi/dmi.iml" />
       <module fileurl="file://$PROJECT_DIR$/down/down.iml" filepath="$PROJECT_DIR$/down/down.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/errorHandler2/errorHandler2.iml" filepath="$PROJECT_DIR$/errorHandler2/errorHandler2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptionHanlder/exceptionHanlder.iml" filepath="$PROJECT_DIR$/exceptionHanlder/exceptionHanlder.iml" />
       <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
       <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
       <module fileurl="file://$PROJECT_DIR$/namespace/namespace.iml" filepath="$PROJECT_DIR$/namespace/namespace.iml" />
       <module fileurl="file://$PROJECT_DIR$/noGenericList/noGenericList.iml" filepath="$PROJECT_DIR$/noGenericList/noGenericList.iml" />
