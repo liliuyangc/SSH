@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/basicValidate/basicValidate.iml" filepath="$PROJECT_DIR$/basicValidate/basicValidate.iml" />
       <module fileurl="file://$PROJECT_DIR$/clientValidate/clientValidate.iml" filepath="$PROJECT_DIR$/clientValidate/clientValidate.iml" />
       <module fileurl="file://$PROJECT_DIR$/component/component.iml" filepath="$PROJECT_DIR$/component/component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component-map/component-map.iml" filepath="$PROJECT_DIR$/component-map/component-map.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlTag/controlTag.iml" filepath="$PROJECT_DIR$/controlTag/controlTag.iml" />
       <module fileurl="file://$PROJECT_DIR$/dmi/dmi.iml" filepath="$PROJECT_DIR$/dmi/dmi.iml" />
       <module fileurl="file://$PROJECT_DIR$/down/down.iml" filepath="$PROJECT_DIR$/down/down.iml" />
